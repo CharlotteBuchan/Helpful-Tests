@@ -1,0 +1,15 @@
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\bin\Debug\net6.0\Add 2 numbers.exe
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\bin\Debug\net6.0\Add 2 numbers.deps.json
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\bin\Debug\net6.0\Add 2 numbers.runtimeconfig.json
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\bin\Debug\net6.0\Add 2 numbers.dll
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\bin\Debug\net6.0\Add 2 numbers.pdb
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\obj\Debug\net6.0\Add 2 numbers.csproj.AssemblyReference.cache
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\obj\Debug\net6.0\Add 2 numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\obj\Debug\net6.0\Add 2 numbers.AssemblyInfoInputs.cache
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\obj\Debug\net6.0\Add 2 numbers.AssemblyInfo.cs
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\obj\Debug\net6.0\Add 2 numbers.csproj.CoreCompileInputs.cache
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\obj\Debug\net6.0\Add 2 numbers.dll
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\obj\Debug\net6.0\refint\Add 2 numbers.dll
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\obj\Debug\net6.0\Add 2 numbers.pdb
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\obj\Debug\net6.0\Add 2 numbers.genruntimeconfig.cache
+D:\530240\Coding\Visual Studios\Add 2 numbers\Add 2 numbers\obj\Debug\net6.0\ref\Add 2 numbers.dll

@@ -1,0 +1,15 @@
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\bin\Debug\net6.0\CheckIfEqual.exe
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\bin\Debug\net6.0\CheckIfEqual.deps.json
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\bin\Debug\net6.0\CheckIfEqual.runtimeconfig.json
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\bin\Debug\net6.0\CheckIfEqual.dll
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\bin\Debug\net6.0\CheckIfEqual.pdb
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\obj\Debug\net6.0\CheckIfEqual.csproj.AssemblyReference.cache
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\obj\Debug\net6.0\CheckIfEqual.GeneratedMSBuildEditorConfig.editorconfig
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\obj\Debug\net6.0\CheckIfEqual.AssemblyInfoInputs.cache
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\obj\Debug\net6.0\CheckIfEqual.AssemblyInfo.cs
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\obj\Debug\net6.0\CheckIfEqual.csproj.CoreCompileInputs.cache
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\obj\Debug\net6.0\CheckIfEqual.dll
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\obj\Debug\net6.0\refint\CheckIfEqual.dll
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\obj\Debug\net6.0\CheckIfEqual.pdb
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\obj\Debug\net6.0\CheckIfEqual.genruntimeconfig.cache
+D:\530240\Coding\Visual Studios\CheckIfEqual\CheckIfEqual\obj\Debug\net6.0\ref\CheckIfEqual.dll
