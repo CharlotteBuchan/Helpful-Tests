@@ -1,0 +1,5 @@
+D:\530240\Coding\Visual Studios\Helpful Tests\Input, Output, Integers\Input, Output, Integers\obj\Debug\net6.0\Input, Output, Integers.csproj.AssemblyReference.cache
+D:\530240\Coding\Visual Studios\Helpful Tests\Input, Output, Integers\Input, Output, Integers\obj\Debug\net6.0\Input, Output, Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\530240\Coding\Visual Studios\Helpful Tests\Input, Output, Integers\Input, Output, Integers\obj\Debug\net6.0\Input, Output, Integers.AssemblyInfoInputs.cache
+D:\530240\Coding\Visual Studios\Helpful Tests\Input, Output, Integers\Input, Output, Integers\obj\Debug\net6.0\Input, Output, Integers.AssemblyInfo.cs
+D:\530240\Coding\Visual Studios\Helpful Tests\Input, Output, Integers\Input, Output, Integers\obj\Debug\net6.0\Input, Output, Integers.csproj.CoreCompileInputs.cache
