@@ -1,0 +1,15 @@
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\bin\Debug\net6.0\Starter Task 5 - Spheres.exe
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\bin\Debug\net6.0\Starter Task 5 - Spheres.deps.json
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\bin\Debug\net6.0\Starter Task 5 - Spheres.runtimeconfig.json
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\bin\Debug\net6.0\Starter Task 5 - Spheres.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\bin\Debug\net6.0\Starter Task 5 - Spheres.pdb
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\obj\Debug\net6.0\Starter Task 5 - Spheres.csproj.AssemblyReference.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\obj\Debug\net6.0\Starter Task 5 - Spheres.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\obj\Debug\net6.0\Starter Task 5 - Spheres.AssemblyInfoInputs.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\obj\Debug\net6.0\Starter Task 5 - Spheres.AssemblyInfo.cs
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\obj\Debug\net6.0\Starter Task 5 - Spheres.csproj.CoreCompileInputs.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\obj\Debug\net6.0\Starter Task 5 - Spheres.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\obj\Debug\net6.0\refint\Starter Task 5 - Spheres.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\obj\Debug\net6.0\Starter Task 5 - Spheres.pdb
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\obj\Debug\net6.0\Starter Task 5 - Spheres.genruntimeconfig.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Starter Task 5 - Spheres\Starter Task 5 - Spheres\obj\Debug\net6.0\ref\Starter Task 5 - Spheres.dll
