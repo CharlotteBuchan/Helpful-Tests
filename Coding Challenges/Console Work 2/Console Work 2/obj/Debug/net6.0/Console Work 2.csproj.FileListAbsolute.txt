@@ -1,0 +1,15 @@
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\bin\Debug\net6.0\Console Work 2.exe
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\bin\Debug\net6.0\Console Work 2.deps.json
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\bin\Debug\net6.0\Console Work 2.runtimeconfig.json
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\bin\Debug\net6.0\Console Work 2.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\bin\Debug\net6.0\Console Work 2.pdb
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\obj\Debug\net6.0\Console Work 2.csproj.AssemblyReference.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\obj\Debug\net6.0\Console Work 2.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\obj\Debug\net6.0\Console Work 2.AssemblyInfoInputs.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\obj\Debug\net6.0\Console Work 2.AssemblyInfo.cs
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\obj\Debug\net6.0\Console Work 2.csproj.CoreCompileInputs.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\obj\Debug\net6.0\Console Work 2.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\obj\Debug\net6.0\refint\Console Work 2.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\obj\Debug\net6.0\Console Work 2.pdb
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\obj\Debug\net6.0\Console Work 2.genruntimeconfig.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 2\Console Work 2\obj\Debug\net6.0\ref\Console Work 2.dll

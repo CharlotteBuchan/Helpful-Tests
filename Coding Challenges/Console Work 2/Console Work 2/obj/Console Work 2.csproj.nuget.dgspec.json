@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 1\\Console Work 0\\Console Work 0.csproj": {}
+    "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 2\\Console Work 2\\Console Work 2.csproj": {}
   },
   "projects": {
-    "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 1\\Console Work 0\\Console Work 0.csproj": {
+    "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 2\\Console Work 2\\Console Work 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 1\\Console Work 0\\Console Work 0.csproj",
-        "projectName": "Console Work 0",
-        "projectPath": "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 1\\Console Work 0\\Console Work 0.csproj",
+        "projectUniqueName": "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 2\\Console Work 2\\Console Work 2.csproj",
+        "projectName": "Console Work 2",
+        "projectPath": "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 2\\Console Work 2\\Console Work 2.csproj",
         "packagesPath": "C:\\Users\\530240\\.nuget\\packages\\",
-        "outputPath": "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 1\\Console Work 0\\obj\\",
+        "outputPath": "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 2\\Console Work 2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
