@@ -1,0 +1,15 @@
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\obj\Debug\net6.0\Console Work 3.csproj.AssemblyReference.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\obj\Debug\net6.0\Console Work 3.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\obj\Debug\net6.0\Console Work 3.AssemblyInfoInputs.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\obj\Debug\net6.0\Console Work 3.AssemblyInfo.cs
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\obj\Debug\net6.0\Console Work 3.csproj.CoreCompileInputs.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\bin\Debug\net6.0\Console Work 3.exe
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\bin\Debug\net6.0\Console Work 3.deps.json
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\bin\Debug\net6.0\Console Work 3.runtimeconfig.json
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\bin\Debug\net6.0\Console Work 3.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\bin\Debug\net6.0\Console Work 3.pdb
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\obj\Debug\net6.0\Console Work 3.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\obj\Debug\net6.0\refint\Console Work 3.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\obj\Debug\net6.0\Console Work 3.pdb
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\obj\Debug\net6.0\Console Work 3.genruntimeconfig.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Console Work 3\Console Work 3\obj\Debug\net6.0\ref\Console Work 3.dll
