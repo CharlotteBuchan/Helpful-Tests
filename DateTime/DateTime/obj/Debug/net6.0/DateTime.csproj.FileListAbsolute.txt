@@ -1,0 +1,15 @@
+H:\Documents\Helpful-Tests\DateTime\DateTime\bin\Debug\net6.0\DateTime.exe
+H:\Documents\Helpful-Tests\DateTime\DateTime\bin\Debug\net6.0\DateTime.deps.json
+H:\Documents\Helpful-Tests\DateTime\DateTime\bin\Debug\net6.0\DateTime.runtimeconfig.json
+H:\Documents\Helpful-Tests\DateTime\DateTime\bin\Debug\net6.0\DateTime.dll
+H:\Documents\Helpful-Tests\DateTime\DateTime\bin\Debug\net6.0\DateTime.pdb
+H:\Documents\Helpful-Tests\DateTime\DateTime\obj\Debug\net6.0\DateTime.csproj.AssemblyReference.cache
+H:\Documents\Helpful-Tests\DateTime\DateTime\obj\Debug\net6.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\Helpful-Tests\DateTime\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfoInputs.cache
+H:\Documents\Helpful-Tests\DateTime\DateTime\obj\Debug\net6.0\DateTime.AssemblyInfo.cs
+H:\Documents\Helpful-Tests\DateTime\DateTime\obj\Debug\net6.0\DateTime.csproj.CoreCompileInputs.cache
+H:\Documents\Helpful-Tests\DateTime\DateTime\obj\Debug\net6.0\DateTime.dll
+H:\Documents\Helpful-Tests\DateTime\DateTime\obj\Debug\net6.0\refint\DateTime.dll
+H:\Documents\Helpful-Tests\DateTime\DateTime\obj\Debug\net6.0\DateTime.pdb
+H:\Documents\Helpful-Tests\DateTime\DateTime\obj\Debug\net6.0\DateTime.genruntimeconfig.cache
+H:\Documents\Helpful-Tests\DateTime\DateTime\obj\Debug\net6.0\ref\DateTime.dll
