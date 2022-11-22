@@ -1,0 +1,15 @@
+H:\Documents\Helpful-Tests\Enum\Enum\bin\Debug\net6.0\Enum.exe
+H:\Documents\Helpful-Tests\Enum\Enum\bin\Debug\net6.0\Enum.deps.json
+H:\Documents\Helpful-Tests\Enum\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+H:\Documents\Helpful-Tests\Enum\Enum\bin\Debug\net6.0\Enum.dll
+H:\Documents\Helpful-Tests\Enum\Enum\bin\Debug\net6.0\Enum.pdb
+H:\Documents\Helpful-Tests\Enum\Enum\obj\Debug\net6.0\Enum.csproj.AssemblyReference.cache
+H:\Documents\Helpful-Tests\Enum\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\Helpful-Tests\Enum\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+H:\Documents\Helpful-Tests\Enum\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+H:\Documents\Helpful-Tests\Enum\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+H:\Documents\Helpful-Tests\Enum\Enum\obj\Debug\net6.0\Enum.dll
+H:\Documents\Helpful-Tests\Enum\Enum\obj\Debug\net6.0\refint\Enum.dll
+H:\Documents\Helpful-Tests\Enum\Enum\obj\Debug\net6.0\Enum.pdb
+H:\Documents\Helpful-Tests\Enum\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache
+H:\Documents\Helpful-Tests\Enum\Enum\obj\Debug\net6.0\ref\Enum.dll
