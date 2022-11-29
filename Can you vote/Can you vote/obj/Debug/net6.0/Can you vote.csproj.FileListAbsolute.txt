@@ -1,0 +1,15 @@
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\bin\Debug\net6.0\Can you vote.exe
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\bin\Debug\net6.0\Can you vote.deps.json
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\bin\Debug\net6.0\Can you vote.runtimeconfig.json
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\bin\Debug\net6.0\Can you vote.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\bin\Debug\net6.0\Can you vote.pdb
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\obj\Debug\net6.0\Can you vote.csproj.AssemblyReference.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\obj\Debug\net6.0\Can you vote.GeneratedMSBuildEditorConfig.editorconfig
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\obj\Debug\net6.0\Can you vote.AssemblyInfoInputs.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\obj\Debug\net6.0\Can you vote.AssemblyInfo.cs
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\obj\Debug\net6.0\Can you vote.csproj.CoreCompileInputs.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\obj\Debug\net6.0\Can you vote.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\obj\Debug\net6.0\refint\Can you vote.dll
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\obj\Debug\net6.0\Can you vote.pdb
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\obj\Debug\net6.0\Can you vote.genruntimeconfig.cache
+H:\Documents\Helpful-Tests\Coding Challenges\Can you vote\Can you vote\obj\Debug\net6.0\ref\Can you vote.dll

@@ -8,7 +8,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
             Console.WriteLine("Enter your date: (dd/mm/yyyy) ");
             DateTime value = DateTime.Parse(Console.ReadLine());
-            Console.WriteLine(value.ToString("dddd"));
+            Console.WriteLine(value.ToString("yyyy"));
         }
     }
 }

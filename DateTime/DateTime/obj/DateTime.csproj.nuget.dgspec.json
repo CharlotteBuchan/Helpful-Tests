@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Documents\\Helpful-Tests\\DateTime\\DateTime\\DateTime.csproj": {}
+    "D:\\530240\\Helpful-Tests\\DateTime\\DateTime\\DateTime.csproj": {}
   },
   "projects": {
-    "H:\\Documents\\Helpful-Tests\\DateTime\\DateTime\\DateTime.csproj": {
+    "D:\\530240\\Helpful-Tests\\DateTime\\DateTime\\DateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Documents\\Helpful-Tests\\DateTime\\DateTime\\DateTime.csproj",
+        "projectUniqueName": "D:\\530240\\Helpful-Tests\\DateTime\\DateTime\\DateTime.csproj",
         "projectName": "DateTime",
-        "projectPath": "H:\\Documents\\Helpful-Tests\\DateTime\\DateTime\\DateTime.csproj",
+        "projectPath": "D:\\530240\\Helpful-Tests\\DateTime\\DateTime\\DateTime.csproj",
         "packagesPath": "C:\\Users\\530240\\.nuget\\packages\\",
-        "outputPath": "H:\\Documents\\Helpful-Tests\\DateTime\\DateTime\\obj\\",
+        "outputPath": "D:\\530240\\Helpful-Tests\\DateTime\\DateTime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
