@@ -1,0 +1,15 @@
+D:\530240\Helpful-Tests\files\files\bin\Debug\net6.0\files.exe
+D:\530240\Helpful-Tests\files\files\bin\Debug\net6.0\files.deps.json
+D:\530240\Helpful-Tests\files\files\bin\Debug\net6.0\files.runtimeconfig.json
+D:\530240\Helpful-Tests\files\files\bin\Debug\net6.0\files.dll
+D:\530240\Helpful-Tests\files\files\bin\Debug\net6.0\files.pdb
+D:\530240\Helpful-Tests\files\files\obj\Debug\net6.0\files.csproj.AssemblyReference.cache
+D:\530240\Helpful-Tests\files\files\obj\Debug\net6.0\files.GeneratedMSBuildEditorConfig.editorconfig
+D:\530240\Helpful-Tests\files\files\obj\Debug\net6.0\files.AssemblyInfoInputs.cache
+D:\530240\Helpful-Tests\files\files\obj\Debug\net6.0\files.AssemblyInfo.cs
+D:\530240\Helpful-Tests\files\files\obj\Debug\net6.0\files.csproj.CoreCompileInputs.cache
+D:\530240\Helpful-Tests\files\files\obj\Debug\net6.0\files.dll
+D:\530240\Helpful-Tests\files\files\obj\Debug\net6.0\refint\files.dll
+D:\530240\Helpful-Tests\files\files\obj\Debug\net6.0\files.pdb
+D:\530240\Helpful-Tests\files\files\obj\Debug\net6.0\files.genruntimeconfig.cache
+D:\530240\Helpful-Tests\files\files\obj\Debug\net6.0\ref\files.dll
