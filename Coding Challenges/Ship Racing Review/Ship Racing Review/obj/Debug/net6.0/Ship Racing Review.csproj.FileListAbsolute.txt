@@ -1,0 +1,15 @@
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\bin\Debug\net6.0\Ship Racing Review.exe
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\bin\Debug\net6.0\Ship Racing Review.deps.json
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\bin\Debug\net6.0\Ship Racing Review.runtimeconfig.json
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\bin\Debug\net6.0\Ship Racing Review.dll
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\bin\Debug\net6.0\Ship Racing Review.pdb
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\obj\Debug\net6.0\Ship Racing Review.csproj.AssemblyReference.cache
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\obj\Debug\net6.0\Ship Racing Review.GeneratedMSBuildEditorConfig.editorconfig
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\obj\Debug\net6.0\Ship Racing Review.AssemblyInfoInputs.cache
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\obj\Debug\net6.0\Ship Racing Review.AssemblyInfo.cs
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\obj\Debug\net6.0\Ship Racing Review.csproj.CoreCompileInputs.cache
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\obj\Debug\net6.0\Ship Racing Review.dll
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\obj\Debug\net6.0\refint\Ship Racing Review.dll
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\obj\Debug\net6.0\Ship Racing Review.pdb
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\obj\Debug\net6.0\Ship Racing Review.genruntimeconfig.cache
+D:\530240\Helpful-Tests\Coding Challenges\Ship Racing Review\Ship Racing Review\obj\Debug\net6.0\ref\Ship Racing Review.dll

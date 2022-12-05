@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\530240\\Helpful-Tests\\Coding Challenges\\Console Work 3\\Console Work 3\\Console Work 3.csproj",
-      "projectName": "Console Work 3",
-      "projectPath": "D:\\530240\\Helpful-Tests\\Coding Challenges\\Console Work 3\\Console Work 3\\Console Work 3.csproj",
+      "projectUniqueName": "D:\\530240\\Helpful-Tests\\Coding Challenges\\Ship Racing Review\\Ship Racing Review\\Ship Racing Review.csproj",
+      "projectName": "Ship Racing Review",
+      "projectPath": "D:\\530240\\Helpful-Tests\\Coding Challenges\\Ship Racing Review\\Ship Racing Review\\Ship Racing Review.csproj",
       "packagesPath": "C:\\Users\\530240\\.nuget\\packages\\",
-      "outputPath": "D:\\530240\\Helpful-Tests\\Coding Challenges\\Console Work 3\\Console Work 3\\obj\\",
+      "outputPath": "D:\\530240\\Helpful-Tests\\Coding Challenges\\Ship Racing Review\\Ship Racing Review\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
