@@ -1,0 +1,15 @@
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\bin\Debug\net6.0\Radius of Sphere.exe
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\bin\Debug\net6.0\Radius of Sphere.deps.json
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\bin\Debug\net6.0\Radius of Sphere.runtimeconfig.json
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\bin\Debug\net6.0\Radius of Sphere.dll
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\bin\Debug\net6.0\Radius of Sphere.pdb
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\obj\Debug\net6.0\Radius of Sphere.csproj.AssemblyReference.cache
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\obj\Debug\net6.0\Radius of Sphere.GeneratedMSBuildEditorConfig.editorconfig
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\obj\Debug\net6.0\Radius of Sphere.AssemblyInfoInputs.cache
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\obj\Debug\net6.0\Radius of Sphere.AssemblyInfo.cs
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\obj\Debug\net6.0\Radius of Sphere.csproj.CoreCompileInputs.cache
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\obj\Debug\net6.0\Radius of Sphere.dll
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\obj\Debug\net6.0\refint\Radius of Sphere.dll
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\obj\Debug\net6.0\Radius of Sphere.pdb
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\obj\Debug\net6.0\Radius of Sphere.genruntimeconfig.cache
+D:\530240\Helpful Tests\Radius of Sphere\Radius of Sphere\obj\Debug\net6.0\ref\Radius of Sphere.dll
