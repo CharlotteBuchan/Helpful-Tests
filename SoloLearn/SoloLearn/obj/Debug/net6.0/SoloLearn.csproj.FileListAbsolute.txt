@@ -1,0 +1,15 @@
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\bin\Debug\net6.0\SoloLearn.exe
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\bin\Debug\net6.0\SoloLearn.deps.json
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\bin\Debug\net6.0\SoloLearn.runtimeconfig.json
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\bin\Debug\net6.0\SoloLearn.dll
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\bin\Debug\net6.0\SoloLearn.pdb
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\obj\Debug\net6.0\SoloLearn.csproj.AssemblyReference.cache
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\obj\Debug\net6.0\SoloLearn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\obj\Debug\net6.0\SoloLearn.AssemblyInfoInputs.cache
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\obj\Debug\net6.0\SoloLearn.AssemblyInfo.cs
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\obj\Debug\net6.0\SoloLearn.csproj.CoreCompileInputs.cache
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\obj\Debug\net6.0\SoloLearn.dll
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\obj\Debug\net6.0\refint\SoloLearn.dll
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\obj\Debug\net6.0\SoloLearn.pdb
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\obj\Debug\net6.0\SoloLearn.genruntimeconfig.cache
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\SoloLearn\SoloLearn\obj\Debug\net6.0\ref\SoloLearn.dll
