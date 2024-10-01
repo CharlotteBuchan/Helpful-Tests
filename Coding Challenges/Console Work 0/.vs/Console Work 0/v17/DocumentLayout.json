@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Helpful-Tests\\Coding Challenges\\Console Work 0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86C8167-1DB4-4585-A94D-013572D59748}|Console Work 0\\Console Work 0.csproj|d:\\helpful-tests\\coding challenges\\console work 0\\console work 0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86C8167-1DB4-4585-A94D-013572D59748}|Console Work 0\\Console Work 0.csproj|solutionrelative:console work 0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\Program.cs",
+              "RelativeDocumentMoniker": "Console Work 0\\Program.cs",
+              "ToolTip": "D:\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\Program.cs",
+              "RelativeToolTip": "Console Work 0\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:37:53.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

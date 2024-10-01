@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\Console Work 0.csproj": {}
+    "D:\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\Console Work 0.csproj": {}
   },
   "projects": {
-    "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\Console Work 0.csproj": {
+    "D:\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\Console Work 0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\Console Work 0.csproj",
+        "projectUniqueName": "D:\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\Console Work 0.csproj",
         "projectName": "Console Work 0",
-        "projectPath": "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\Console Work 0.csproj",
+        "projectPath": "D:\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\Console Work 0.csproj",
         "packagesPath": "C:\\Users\\530240\\.nuget\\packages\\",
-        "outputPath": "H:\\Documents\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\obj\\",
+        "outputPath": "D:\\Helpful-Tests\\Coding Challenges\\Console Work 0\\Console Work 0\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\530240\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,12 +55,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
