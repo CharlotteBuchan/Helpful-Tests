@@ -1,0 +1,15 @@
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\bin\Debug\net6.0\NyxTest.exe
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\bin\Debug\net6.0\NyxTest.deps.json
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\bin\Debug\net6.0\NyxTest.runtimeconfig.json
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\bin\Debug\net6.0\NyxTest.dll
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\bin\Debug\net6.0\NyxTest.pdb
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\obj\Debug\net6.0\NyxTest.csproj.AssemblyReference.cache
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\obj\Debug\net6.0\NyxTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\obj\Debug\net6.0\NyxTest.AssemblyInfoInputs.cache
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\obj\Debug\net6.0\NyxTest.AssemblyInfo.cs
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\obj\Debug\net6.0\NyxTest.csproj.CoreCompileInputs.cache
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\obj\Debug\net6.0\NyxTest.dll
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\obj\Debug\net6.0\refint\NyxTest.dll
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\obj\Debug\net6.0\NyxTest.pdb
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\obj\Debug\net6.0\NyxTest.genruntimeconfig.cache
+D:\Users\charl\Desktop\Charlotte\College\Helpful-Tests\NyxTest\NyxTest\obj\Debug\net6.0\ref\NyxTest.dll
